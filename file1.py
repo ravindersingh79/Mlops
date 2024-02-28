@@ -1,0 +1,1 @@
+print('data one in one ')
